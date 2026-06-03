@@ -1,2 +1,1 @@
-# game
-AI产品设计大赛作品
+超时空勇士：光痕回响 | LightTrace Echo
